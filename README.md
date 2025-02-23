@@ -1,3 +1,3 @@
 # Natural Language Processing Analysis Tool
 
-## I am using Cohere to do a NPL analysis of short audio files
+Using Cohere to do a NLP analysis of short audio files
